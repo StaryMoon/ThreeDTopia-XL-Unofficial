@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the original paper."
+title: "3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Minghao
+repository-code: "https://github.com/StaryMoon/ThreeDTopia-XL-Unofficial"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion"
+  authors:
+  - family-names: Chen
+    given-names: Zhaoxi
+  - family-names: Tang
+    given-names: Jiaxiang
+  - family-names: Dong
+    given-names: Yuhao
+  - family-names: Cao
+    given-names: Ziang
+  - family-names: Hong
+    given-names: Fangzhou
+  - family-names: Lan
+    given-names: Yushi
+  - family-names: Wang
+    given-names: Tengfei
+  - family-names: Xie
+    given-names: Haozhe
+  - family-names: Wu
+    given-names: Tong
+  - family-names: Saito
+    given-names: Shunsuke
+  - family-names: Pan
+    given-names: Liang
+  - family-names: Lin
+    given-names: Dahua
+  - family-names: Liu
+    given-names: Ziwei
+  conference: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  year: 2025
+  url: "https://openaccess.thecvf.com/content/CVPR2025/html/Chen_3DTopia-XL_Scaling_High-quality_3D_Asset_Generation_via_Primitive_Diffusion_CVPR_2025_paper.html"

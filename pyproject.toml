@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "threedtopia-xl-unofficial"
-version = "0.1.0"
-description = "Unofficial PyTorch starter for 3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion."
+version = "0.2.0"
+description = "Unofficial PyTorch reproduction for 3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion."
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
